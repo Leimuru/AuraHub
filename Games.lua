@@ -31,10 +31,10 @@ return {
     [{2809202155}] = { -- YBA
         ["Autofarm"] = "https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua"
     },
-    [{6516141723,  6839171747}] = {
+    [{6516141723,  6839171747}] = {--Doors
         ["Ominous"] = "https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"
     },
-    [{6403373529}] = {
+    [{6403373529}] = {--Slap Battles
         ["Autofarm"] = "https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"
     }
 }
