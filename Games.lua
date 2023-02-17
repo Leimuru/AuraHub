@@ -34,7 +34,17 @@ return {
     [{6516141723,  6839171747}] = {--Doors
         ["Ominous"] = "https://raw.githubusercontent.com/OminousVibes-Exploit/Scripts/main/doors/loadstring.lua"
     },
-    [{6403373529}] = {--Slap Battles
+    [{6403373529}] = {-- Slap Battles
         ["Autofarm"] = "https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"
     }
 }
+    [{8737602449}] = {--- Driving Empire
+        ["Windy"] = "https://raw.githubusercontent.com/WindyKung/WindyWare/main/MainScript/DrivingEmpire.lua"
+    }
+}
+    [{6735572261}] = {--- Pilgrammed
+        ["Load Script"] = "https://raw.githubusercontent.com/LOLking123456/chain1/main/saw2",
+        ["Best"] = "https://raw.githubusercontent.com/DeIivery/roblox/main/pilgrammed",
+    }
+}
+end
