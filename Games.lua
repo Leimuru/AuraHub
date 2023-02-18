@@ -36,26 +36,22 @@ return {
     },
     [{6403373529}] = {-- Slap Battles
         ["Autofarm"] = "https://raw.githubusercontent.com/dizyhvh/slap_battles_gui/main/0.lua"
-    }
-}
+    },
+
     [{8737602449}] = {--- Driving Empire
         ["Windy"] = "https://raw.githubusercontent.com/WindyKung/WindyWare/main/MainScript/DrivingEmpire.lua"
-    }
-}
+    },
     [{6735572261}] = {--- Pilgrammed
         ["Load Script"] = "https://raw.githubusercontent.com/LOLking123456/chain1/main/saw2",
         ["Best"] = "https://raw.githubusercontent.com/DeIivery/roblox/main/pilgrammed",
-    }
-}
+    },
     [{6735572261}] = {--- Shindo
         ["VG"] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
-    }
-}
+    },
     [{6735572261}] = {--- Piece Adventures Simulator
         ["Pa1n"] = "https://raw.githubusercontent.com/xpa1n/Scripts/main/Piece%20Adventures%20Simulator.lua",
-    }
-}
+    },
     [{6735572261}] = {--- Murder Mystery 2
         ["Kidachi"] = "https://kidachi.xyz/Script",
-    }
-}
+    },
+
