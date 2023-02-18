@@ -1,4 +1,5 @@
-return {
+return
+{
     [{11746859781}] = { -- Bubble Gum Clicker
         ["Soggyware"] = "https://www.soggy-ware.cf",
     },
@@ -54,4 +55,4 @@ return {
     [{6735572261}] = {--- Murder Mystery 2
         ["Kidachi"] = "https://kidachi.xyz/Script",
     },
-
+}
