@@ -47,4 +47,15 @@ return {
         ["Best"] = "https://raw.githubusercontent.com/DeIivery/roblox/main/pilgrammed",
     }
 }
-end
+    [{6735572261}] = {--- Shindo
+        ["VG"] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
+    }
+}
+    [{6735572261}] = {--- Piece Adventures Simulator
+        ["Pa1n"] = "https://raw.githubusercontent.com/xpa1n/Scripts/main/Piece%20Adventures%20Simulator.lua",
+    }
+}
+    [{6735572261}] = {--- Murder Mystery 2
+        ["Kidachi"] = "https://kidachi.xyz/Script",
+    }
+}
