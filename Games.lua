@@ -40,7 +40,8 @@ return
     },
 
     [{8737602449}] = {--- Driving Empire
-        ["Windy"] = "https://raw.githubusercontent.com/WindyKung/WindyWare/main/MainScript/DrivingEmpire.lua"
+        ["Windy"] = "https://raw.githubusercontent.com/WindyKung/WindyWare/main/MainScript/DrivingEmpire.lua",
+        ["Soggyware"] = "https://www.soggy-ware.cf"
     },
     [{6735572261}] = {--- Pilgrammed
         ["Load Script"] = "https://raw.githubusercontent.com/LOLking123456/chain1/main/saw2",
